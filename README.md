@@ -21,9 +21,9 @@
   
 - 🎸  Once in a month i´ve come to play the guitar or doing some 🎶 on my 🖥
   
-- 🖥  I´m currently learning  **Jira, SQL, Postman, etc**
+- 🖥  I´m currently finishing **MindHub Testing Bootcamp**
   
-- 📧  How to reach me **cancruchi@gmail.com**
+- 📧  How to reach me **cancruchi@gmail.com**    
   
 <div align="left">
     <h3>🧰 Tools and Languages:</h3>
