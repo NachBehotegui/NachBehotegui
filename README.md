@@ -19,7 +19,7 @@
 
 - 👀  Spending time between Game Tester App or testing games                                                   
   
-- 🎸  Once in a month i´ve come to play the guitar or doing some 🎶 on my 🖥
+- 🎸  Once  a month i´ve come to play the guitar or doing some 🎶 on my 🖥
   
 - 🖥  I´m currently finishing **MindHub Testing Bootcamp**
   
