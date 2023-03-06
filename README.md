@@ -23,7 +23,9 @@
   
 - 🖥  I´m currently finishing **MindHub Testing Bootcamp**
   
-- 📧  How to reach me **cancruchi@gmail.com**    
+- 📧  How to reach me **cancruchi@gmail.com** 
+     
+- 📖  Another site is Linkedin: **https://www.linkedin.com/in/ignacio-behotegui/**
   
 <div align="left">
     <h3>🧰 Tools and Languages:</h3>
