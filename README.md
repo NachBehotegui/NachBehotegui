@@ -15,7 +15,7 @@
               
 ### 🤓  About Me:
   
-- 🎮  I spend almost half of the day playing videogames 
+- 🎮  I spend almost a couple of hours in the day playing videogames 
 
 - 👀  Spending time between Game Tester App or testing games                                                   
   
@@ -23,7 +23,7 @@
   
 - 🖥  I´m currently finishing **MindHub Testing Bootcamp**
   
-- 📧  How to reach me **cancruchi@gmail.com** 
+- 📧  How to reach me **ignaciobehotegui@gmail.com** 
      
 - 📖  Another site is Linkedin: **https://www.linkedin.com/in/ignacio-behotegui/**
   
