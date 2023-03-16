@@ -17,11 +17,11 @@
   
 - 🎮  I spend almost a couple of hours in the day playing videogames 
 
-- 👀  Spending time between Game Tester App or testing games                                                   
+- 👀  Spending time between Game Tester App or testing UI Webs                                                    
   
 - 🎸  Once  a month i´ve come to play the guitar or doing some 🎶 on my 🖥
   
-- 🖥  I´m currently finishing **MindHub Testing Bootcamp**
+- 🖥  I´ve  currently finished **MindHub Testing Bootcamp**
   
 - 📧  How to reach me **ignaciobehotegui@gmail.com** 
      
